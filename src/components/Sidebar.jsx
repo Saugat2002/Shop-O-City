@@ -36,7 +36,7 @@ const Sidebar = () => {
               <FiTrash2 />
             </div>
           </div>
-          <Link to='/' className='bg-gray-200 hover:bg-gray-300 flex p-3 justify-center items-center text-primary w-full font-medium hover:scale-105 transition-all'>View Cart</Link>
+          <Link to='/' className='bg-gray-200 hover:bg-gray-300 flex p-3 justify-center items-center text-primary w-full font-medium hover:scale-105 transition-all'>Continue Shopping</Link>
           <Link to='/' className='bg-[#1e1b81] hover:bg-[#3b35f7] flex p-3 justify-center items-center text-white w-full font-medium hover:scale-105 transition-all'>Proceed to Checkout</Link>
         </div>
       </div>
