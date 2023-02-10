@@ -19,7 +19,7 @@ useEffect(() => {
   return (
     <>
     <header className = {`${isActive ? ' py-7 shadow-md bg-white' : 'py-6 bg-none'}  fixed w-full h-fit z-20 transition-all duration-200`}>
-      <div className='container mx-auto flex items-center justify-between'>
+      <div className='pl-3 pr-10 flex items-center justify-between'>
         {/* logo  */}
         <Link to='/'>
           <div className='absolute '>

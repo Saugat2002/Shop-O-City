@@ -10,7 +10,21 @@ const Home = () => {
       item.category === "men's clothing" || item.category === "women's clothing"
     );
   });
+  console.log(filteredProducts);
+  if (!filteredProducts) {
+    return (
+      <>
+        <section className='h-screen flex justify-center items-center'>
+          Loading...
+        </section>
+      </>
+    )
+  }
+  else{
 
+
+  
+  
   return (
     <>
       <Hero />
@@ -28,6 +42,7 @@ const Home = () => {
     </>
 
   );
+}
 };
 
 export default Home;
