@@ -19,6 +19,6 @@ Then, run the following commands to run project in your localhost.
 npm i
 npm run start
 ```
-(Make sure you have installed NodeJS in your device. If not, download and install it from: `https://nodejs.org/en/download/`)
+(Make sure you have installed NodeJS in your device. If not, download and install it from: https://nodejs.org/en/download/)
 
 
