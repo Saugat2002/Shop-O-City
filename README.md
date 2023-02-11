@@ -11,5 +11,5 @@ This Website is hosted using Netlify
 
 To use and access the code of this project, you can simply clone this repository in your local device using following command:
 
-git clone "url"
+` git clone https://github.com/Saugat2002/Shop-O-City.git `
 
