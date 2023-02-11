@@ -13,3 +13,11 @@ To use and access the code of this project, you can simply clone this repository
 
 ` git clone https://github.com/Saugat2002/Shop-O-City.git `
 
+Then, run the following commands to run project in your localhost.
+
+```
+npm i
+npm run start
+```
+
+
